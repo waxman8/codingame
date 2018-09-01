@@ -1,3 +1,8 @@
+/*
+my solution for
+Shadows of the night E2
+*/
+package mdv.codeingame.puzzles.shadows.two;
 
 import java.util.*;
 

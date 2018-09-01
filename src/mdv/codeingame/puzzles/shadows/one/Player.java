@@ -2,7 +2,7 @@
 my solution for
 Shadows of the night E1
 */
-package codeingame.shadows.one;
+package mdv.codeingame.puzzles.shadows.one;
 
 import java.util.*;
 

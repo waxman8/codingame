@@ -2,7 +2,7 @@
 my solution for
 Brackets, extreme edition.
 */
-package codeingame.brackets;
+package mdv.codeingame.puzzles.brackets;
 
 import java.util.*;
 
