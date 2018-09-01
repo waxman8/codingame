@@ -1,5 +1,5 @@
 # codingame
-Repository with my solutions to some of the puzzles bots competing in contests.
+Repository with my solutions to some of the puzzles and bots competing in contests.
 
 <b>Puzzles</b>
 
