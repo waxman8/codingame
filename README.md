@@ -1,6 +1,14 @@
 # codingame
-Blah
+Repository with my solutions to some of the puzzles bots competing in contests.
 
-<b> blah </b>
+<b>Puzzles</b>
 
-Link to puzzle 1 https://github.com/waxman8/codingame/tree/master/src/mdv/codeingame/puzzles/brackets
+Gravity Tumbler
+The program must output the result of tumbling a landscape a certain number of times.
+Tumbling entails:
+- rotating the landscape counterclockwise by 90°
+- letting the hash bits # fall down
+The map is composed of . and #.
+(This puzzle is a twist (hah!) on classic community puzzle “Gravity”. You may want to solve that one first.)
+
+
