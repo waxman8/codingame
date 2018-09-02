@@ -1,14 +1,6 @@
 # codingame
 Repository with my solutions to some of the puzzles and bots competing in contests.
 
+Organised under soure in several packages
 <b>Puzzles</b>
-
-Gravity Tumbler
-The program must output the result of tumbling a landscape a certain number of times.
-Tumbling entails:
-- rotating the landscape counterclockwise by 90°
-- letting the hash bits # fall down
-The map is composed of . and #.
-(This puzzle is a twist (hah!) on classic community puzzle “Gravity”. You may want to solve that one first.)
-
-
+<b>Medium puzzles</b>
