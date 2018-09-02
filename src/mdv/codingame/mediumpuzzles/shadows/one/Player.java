@@ -1,8 +1,9 @@
 /*
-my solution for
-Shadows of the night E1
-*/
-package mdv.codeingame.puzzles.shadows.one;
+ * my solution for
+ * Shadows of the night E1
+ * 
+ */
+package mdv.codingame.mediumpuzzles.shadows.one;
 
 import java.util.*;
 

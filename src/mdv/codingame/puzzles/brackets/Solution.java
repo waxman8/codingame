@@ -1,8 +1,9 @@
 /*
-my solution for
-Brackets, extreme edition.
-*/
-package mdv.codeingame.puzzles.brackets;
+ * my solution for
+ * Brackets, extreme edition.
+ * https://www.codingame.com/training/easy/brackets-extreme-edition
+ */
+package mdv.codingame.puzzles.brackets;
 
 import java.util.*;
 

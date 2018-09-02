@@ -1,8 +1,9 @@
 /*
-my solution for
-gravity tumbler
-*/
-package mdv.codeingame.puzzles.gravity;
+ * my solution for
+ * gravity tumbler
+ * https://www.codingame.com/training/easy/gravity-tumbler
+ */
+package mdv.codingame.puzzles.gravity;
 
 import java.util.*;
 
